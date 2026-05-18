@@ -1,0 +1,14 @@
+name: tfg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+  - xgboost
+  - matplotlib
+  - shap
+  - joblib
